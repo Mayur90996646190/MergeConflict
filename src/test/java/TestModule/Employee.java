@@ -3,7 +3,7 @@ package TestModule;
 public class Employee {
 	private String name;
 	private int  age ;
-	private int salary;
+	private double salary;
 	public Employee(String name, int age, int salary) {
 		super();
 		this.name = name;
